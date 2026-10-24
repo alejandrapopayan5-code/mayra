@@ -1,0 +1,28 @@
+body {
+    background-image: url(fondo-primavera-dibujado-flores_23-2148833619.avif);
+}
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
+p {
+    
+}
+h2 {
+    color: black;
+    font-size: 30px;
+}
+ul{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(12, 12, 12);
+}
+footer {
+    color: rgb(6, 5, 5);
+    font-size: 22px;
+    position: fixed;
+    bottom: 0;
+    font-weight: bold;
+
+}
